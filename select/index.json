@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "KBZ",
+  "base_artist": "____natural",
+  "createdAt": "2025-12-19T13:35:01.934877Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "VENENO DE SERPIENTE - REMIX - DJ KBZ@ x AXEL CARAM",
+      "artist": "DJ KBZ",
+      "has_synced": false,
+      "path": "select/01_VENENO_DE_SERPIENTE_-_REMIX_-_DJ_KBZ@_x_AXEL_CARAM_DJ_KBZ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "KBZ (feat. 重音テト)",
+      "artist": "____natural",
+      "has_synced": false,
+      "path": "select/pl_01_KBZ_(feat._重音テト)_natural.txt"
+    }
+  ]
+}
